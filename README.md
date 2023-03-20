@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Heyyyy!! Sou a @DayBianchiniVaz, sou estudante do curso <strong>Starter Full Stack na GrowDev</strong>.<br>
-  No momento estou no Modulo Front End I. Nele estamos vendo HTML, CSS e JavaScript. Desde o inicio do interesse em me tronar desenvolvedora, o <strong>FRONT END </strong> sempre foi o que mais me cativou. 
+  No momento estou no Modulo Front End I. Nele estamos vendo HTML, CSS e JavaScript. Desde o inicio do interesse em me tornar desenvolvedora, o <strong>FRONT END </strong> sempre foi o que mais me cativou. 
 </p>
 
 <p align="left">
