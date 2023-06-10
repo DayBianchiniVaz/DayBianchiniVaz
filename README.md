@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato comigo por: ⤵️
+  💌 If you're interested in learning more about my skills and experience, please feel free to reach out to me at ⤵️
 </p>
 
 <p align="left">
