@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  ##About me
+
  My name is Dayane and I currently reside in Orlando, Florida. I am a front-end developer with experience in JavaScript, CSS, HTML, and React. I am actively seeking a trainee or junior position in the front-end development field.
 </p>
 
