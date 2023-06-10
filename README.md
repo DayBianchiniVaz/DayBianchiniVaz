@@ -9,7 +9,8 @@
 
 <p align="left">
   💼 Skills: <strong> 
-  - JavaScript
+ 
+- JavaScript
 
 
 - CSS
